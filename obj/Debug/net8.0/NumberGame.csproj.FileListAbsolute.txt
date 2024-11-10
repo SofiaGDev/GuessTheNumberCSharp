@@ -1,0 +1,14 @@
+D:\Code\NumberGame\bin\Debug\net8.0\NumberGame.exe
+D:\Code\NumberGame\bin\Debug\net8.0\NumberGame.deps.json
+D:\Code\NumberGame\bin\Debug\net8.0\NumberGame.runtimeconfig.json
+D:\Code\NumberGame\bin\Debug\net8.0\NumberGame.dll
+D:\Code\NumberGame\bin\Debug\net8.0\NumberGame.pdb
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.AssemblyInfoInputs.cache
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.AssemblyInfo.cs
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.csproj.CoreCompileInputs.cache
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.dll
+D:\Code\NumberGame\obj\Debug\net8.0\refint\NumberGame.dll
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.pdb
+D:\Code\NumberGame\obj\Debug\net8.0\NumberGame.genruntimeconfig.cache
+D:\Code\NumberGame\obj\Debug\net8.0\ref\NumberGame.dll
